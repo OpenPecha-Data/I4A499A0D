@@ -1,15 +1,16 @@
-id: opecha:P007911
+id: P007911
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18472
   title: དམངས་སྲོལ་རིག་པ་སྤྱི་བཤད།
-  volume:
+  author: ''
+  volumes:
     acf788e213584c8b90411cc73a02d38b:
       image_group_id: I8LS18474
       title: Volume 1 of dmangs srol rig pa spyi bshad/
       volume_number: 1
       total_pages: 255
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དམངས་སྲོལ་རིག་པ་སྤྱི་བཤད།
   author: ''
